@@ -11,3 +11,7 @@ Users must sign in to access branch information, location, and number. They are 
 stored in the SQLite database. The application enhances convenience through personalized
 accounts which can be edited and deleted by the users and dynamic language switch, and a 
 streamlined order placement process.
+
+The project is 30 MB so it cannot be uploaded on GitHub,  here is the project link:
+
+https://drive.google.com/file/d/1Tr4RiSRlS5AU-bhLFJpT8XZceCXFEpBL/view
