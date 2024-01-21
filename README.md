@@ -11,6 +11,6 @@ accounts can be edited and deleted by the users and dynamic language switch is p
 branches information( name, location, number, facebook and instagram links) are stored in 
 the database.
 
-The project is 30 MB so it cannot be uploaded on GitHub,  here is the project link:
+Here is the project link:
 
 https://drive.google.com/file/d/1Tr4RiSRlS5AU-bhLFJpT8XZceCXFEpBL/view
