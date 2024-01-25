@@ -1,7 +1,7 @@
 # Cocktail Bakery
 
 The project is about a bakery delivery Android mobile application developed using Java in
-Android Studio, it was a part of the mobile applications course. The bakery is for small 
+Android Studio, it was a part of a mobile applications course. The bakery is for small 
 and big orders and has more than one Branch. It supports many features like navigation drawer, 
 user registration, localization (supporting English and Arabic), Implicit Intents, different 
 views, and data storage in embedded SQLite Database.
