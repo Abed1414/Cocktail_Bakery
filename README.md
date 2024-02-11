@@ -10,7 +10,3 @@ Users must sign in to access order and  branch information sections in the  navi
 accounts can be edited and deleted by the users and dynamic language switch is provided, also
 branches information( name, location, number, facebook and instagram links) are stored in 
 the database.
-
-Here is the project link:
-
-https://drive.google.com/file/d/1Tr4RiSRlS5AU-bhLFJpT8XZceCXFEpBL/view
